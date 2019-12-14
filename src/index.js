@@ -1,5 +1,5 @@
 const express = require('express');
-const bodyParser = require('bobyParser');
+const bodyParser = require('boby-parser');
 
 const app = express();
 
